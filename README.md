@@ -26,20 +26,4 @@ Tkinter
 
 SQLite3
 
-🚀 Kurulum ve Çalıştırma
 
-Bu projeyi klonla:
-
-git clone https://github.com/kullaniciadi/proje-adi.git
-cd proje-adi
-
-
-Gerekli kütüphaneleri yükle:
-
-pip install opencv-python
-pip install pillow
-
-
-Programı çalıştır:
-
-python main.py
